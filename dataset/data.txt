@@ -1,0 +1,4 @@
+Python is a high-level programming language bro.
+Streamlit makes creating web apps easy.
+Docker simplifies containerization for developers.
+Machine Learning is a subset of Artificial Intelligence.
